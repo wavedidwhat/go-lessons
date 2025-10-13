@@ -115,7 +115,7 @@ Explore these repositories to deepen your practical experience:
 
 ## ✨ Maintainer
 
-**@Wavedidwhat** — Passionate Go developer and educator dedicated to making Go accessible and enjoyable.
+**@Wavedidwhat** — Backend and AI automations engineer trying to learn new things.
 
 ---
 
