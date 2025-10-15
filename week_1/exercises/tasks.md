@@ -24,6 +24,8 @@ Approach this week with energy and curiosity. Don’t just memorize—*experimen
 # Week 1 — Daily Tasks
 
 ## Day 1: Introduction to Go
+>
+>hello-go
 
 - **Focus:** Setting up Go environment, understanding Go syntax basics
 - **Build:** Write a simple "Hello, World!" program
@@ -32,6 +34,8 @@ Approach this week with energy and curiosity. Don’t just memorize—*experimen
 - **Resources:** Official Go installation guide, "Getting Started" tutorial
 
 ## Day 2: Variables, Constants, and Types
+>
+>what-type
 
 - **Focus:** Declaring variables and constants, exploring basic types
 - **Build:** Create a program that declares variables of different types and prints them
