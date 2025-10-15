@@ -1,3 +1,8 @@
+
+# About Go
+
+![Go Gopher mascot, a small stylized teal-blue gopher with large round eyes and short paws standing upright and facing forward on a plain white background; no visible text; conveys a friendly and whimsical tone.](https://blog.golang.org/gopher/gopher.png)
+
 # 🧠 What Is Go?
 
 Go, also known as Golang, is a programming language designed to make building software fast, simple, and reliable. It was created to help developers write clear and efficient code, especially for large projects and teams.

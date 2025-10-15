@@ -19,7 +19,5 @@ Documentation & best practices
 
 - [Effective Go](https://go.dev/doc/effective_go) — idiomatic Go patterns and tips.
 - [pkg.go.dev](https://pkg.go.dev/) — search and read package documentation (godoc hosting).
-
-Quick tip
-
-- Keep this file as Ref.md in your repo for new learners; link to specific pages from lessons for easy access.
+- [Go Wiki: Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) — common pitfalls and best practices.
+- [Go Blog: Package Names](https://go.dev/blog/package-names) — naming conventions and best practices.

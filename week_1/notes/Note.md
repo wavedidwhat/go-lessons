@@ -1,5 +1,7 @@
 # Week 1 — Go Basics, Packages & Imports
 
+![Go Gopher](https://blog.golang.org/gopher/gopher.png)
+
 Welcome to Week 1! This is the moment to ignite your Go journey with energy and focus. This week is all about *thinking in Go* — building your intuition around Go's core concepts and sharpening your skills by practicing every single day.
 
 !note Goal for the Week

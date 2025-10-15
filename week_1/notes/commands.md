@@ -1,5 +1,7 @@
 # Go Command-Line Tools and Workflows
 
+![Go Gopher](https://blog.golang.org/gopher/gopher.png)
+
 Welcome to your beginner-friendly guide to Go’s command-line tools! If you’re new to Go or just want to get a clearer picture of how things work behind the scenes, this guide will walk you through the essential commands and concepts you’ll use every day.
 
 ---
